@@ -1,0 +1,9 @@
+'#' = Funciona con '%x' y '%X'
+
+' ' = Funciona con '%s'
+
+'+' = Funciona con '%d' y '%i'.
+
+Espacio = D e I;
+Almohadilla = x y X;
+Más = D e I;
